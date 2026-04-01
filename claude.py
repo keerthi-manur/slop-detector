@@ -1,9 +1,3 @@
-"""
-Train Claude Detector
-Binary classifier: Claude (label=1) vs Human (label=0)
-Saves best model to models/detector_claude/
-"""
-
 import os
 import pandas as pd
 import torch
