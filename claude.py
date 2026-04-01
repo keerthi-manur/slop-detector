@@ -1,3 +1,6 @@
+"""
+Training model for Claude vs human samples
+"""
 import os
 import pandas as pd
 import torch
