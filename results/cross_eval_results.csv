@@ -1,0 +1,10 @@
+detector_trained_on,tested_on,accuracy,f1,precision,recall
+claude,claude,1.0,1.0,1.0,1.0
+claude,chatgpt,0.5005,0.002,1.0,0.001
+claude,gemini,0.9275,0.9218,1.0,0.855
+chatgpt,claude,0.4765,0.0242,0.1781,0.013
+chatgpt,chatgpt,0.97,0.9709,0.9434,1.0
+chatgpt,gemini,0.6585,0.5247,0.8627,0.377
+gemini,claude,0.9985,0.9985,1.0,0.997
+gemini,chatgpt,0.502,0.008,1.0,0.004
+gemini,gemini,1.0,1.0,1.0,1.0
